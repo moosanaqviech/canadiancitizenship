@@ -1,0 +1,23 @@
+# App icons from identity/app-icon-lake-1024 (lake blue is primary).
+# Regenerate the adaptive layers with `flutter test tool/render_icon_layers.dart`,
+# then run `dart run flutter_launcher_icons`.
+flutter_launcher_icons:
+  image_path: assets/icon/app-icon-1024.png
+
+  ios: true
+  remove_alpha_ios: true
+
+  android: true
+  min_sdk_android: 21
+  adaptive_icon_background: assets/icon/adaptive-background.png
+  adaptive_icon_foreground: assets/icon/adaptive-foreground.png
+  adaptive_icon_monochrome: assets/icon/adaptive-monochrome.png
+  # The rendered layers are already full 108 dp canvases with the art in the
+  # safe zone, so no extra inset.
+  adaptive_icon_foreground_inset: 0
+
+  web:
+    generate: true
+    image_path: assets/icon/app-icon-1024.png
+    background_color: "#F7F4EC"
+    theme_color: "#1F4D3A"

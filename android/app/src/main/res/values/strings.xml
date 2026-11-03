@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name under the launcher icon. Matches the Play Store name. -->
+    <string name="app_name">Canadian Citizenship Test 2026</string>
+</resources>

@@ -8,7 +8,7 @@ import '../theme/tokens.dart';
 import '../widgets/common.dart';
 
 /// Public privacy policy page, also linked from the store listings. `#francais` jumps to the French half.
-const _privacyPolicyUrl = 'https://claude.ai/artifact/F69PwxJJXcW3nE6V332xUa';
+const _privacyPolicyUrl = 'https://moosanaqviech.github.io/canadiancitizenship/privacy-policy.html';
 
 /// 06 Settings (English / French).
 class SettingsScreen extends StatelessWidget {

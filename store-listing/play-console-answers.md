@@ -36,7 +36,7 @@ The screenshots and feature graphic are in English. Play uses the English ones f
 ## App content
 
 ### Privacy policy
-Required for every app. Host `privacy-policy.md` (below) at a public URL and paste the link.
+Required for every app. Hosted on GitHub Pages from `docs/privacy-policy.html`: https://moosanaqviech.github.io/canadiancitizenship/privacy-policy.html. The link must open the policy text directly, with no sign-in or interstitial page (a claude.ai artifact link was rejected for this).
 
 ### Ads
 **Yes, my app contains ads.**
